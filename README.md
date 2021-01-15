@@ -5,8 +5,9 @@ Text Editor Basic version build using C++ with linked list.
 Having The most Basic functionality Terminal Based
 
 Functions:
-
+\n
 1-write
+\n
 2-Write Before a line/word.
 3-Write at a specific position.
 4-Delete a line/word.
